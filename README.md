@@ -3,7 +3,7 @@
 
 ### Implentation of Machine Learning Algorithms in R
 <ul>
-<li><a href="https://github.com/kaushal93v/Data-Science-Algorithms/blob/master/Bootstrapping%20in%20R.ipynb"> Bootstrapping </a>
+<li><a href="https://github.com/kaushal93v/Data-Science-Algorithms/blob/master/Bootstrapping%20in%20R.ipynb"> Bootstrapping techniques </a>
 </li>
  <li><a href="https://github.com/kaushal93v/Data-Science-Algorithms/blob/master/KNN%20Regressor.ipynb"> K-Nearest Neighbours Regressor </a>
 </li>
