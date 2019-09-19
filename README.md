@@ -18,4 +18,4 @@
 </ul>
 
 ### Data Analysis Challenge
-<h2><a href="https://github.com/kaushal93v/Data-Analysis-Challenge"> Classification of news articles using supervised machine learning algorithms</a></h2>
+<h4><a href="https://github.com/kaushal93v/Data-Analysis-Challenge"> Classification of news articles using supervised machine learning algorithms</a></h4>
