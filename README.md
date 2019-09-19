@@ -19,3 +19,4 @@
 
 ### Data Analysis Challenge
 <h4><a href="https://github.com/kaushal93v/Data-Analysis-Challenge"> Classification of news articles using supervised machine learning algorithms</a></h4>
+<p> Text documents are one of the richest information sources where we can learn valuable information for various purposes. As one of the important and typical analytic tasks in NLP/ML, document classification refers to labelling a document with one or more classes or categories. This has many applications like spam filtering, email routing, sentiment analysis. The objective of this challenge is to classify huge corpus of news articles using supervised machine learning models. </p>
