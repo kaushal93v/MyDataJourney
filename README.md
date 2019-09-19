@@ -3,15 +3,13 @@
 
 ### Implentation of Machine Learning Algorithms in R
 <ul>
-<li><a href="https://github.com/charithesh/data-science-portfolio/blob/master/Boostsraping.ipynb"> Bootstraping </a>
+<li><a href="https://github.com/kaushal93v/Data-Science-Algorithms/blob/master/Bootstrapping%20in%20R.ipynb"> Bootstrapping </a>
 </li>
- <li><a href="https://github.com/charithesh/data-science-portfolio/blob/master/KNN%20regressor.ipynb"> KNN regressor </a>
+ <li><a href="https://github.com/kaushal93v/Data-Science-Algorithms/blob/master/KNN%20Regressor.ipynb"> K-Nearest Neighbours Regressor </a>
 </li>
- <li><a href="https://github.com/charithesh/data-science-portfolio/blob/master/CV%20for%20KNN%20regressor.ipynb"> Cross-Validation for KNN regressor </a>
+ <li><a href="https://github.com/kaushal93v/Data-Science-Algorithms/blob/master/K-fold%20Cross%20Validation.ipynb"> K-fold Cross-Validation for KNN regressor </a>
 </li>
- <li><a href="https://github.com/charithesh/data-science-portfolio/blob/master/Logistic%20Regression%20vs%20Bayesian%20Classifier.ipynb"> Logistic vs Bayesian classifier </a>
+ <li><a href="https://github.com/kaushal93v/Data-Science-Algorithms/blob/master/Classification%20Models.ipynb"> Comparison of Classification Models - Logistic Regression vs Bayesian Classification </a>
 </li>
- <li><a href="https://github.com/charithesh/data-science-portfolio/blob/master/perceptron.ipynb"> Multiclass perceptron </a>
-</li>
- <li><a href="https://github.com/charithesh/data-science-portfolio/blob/master/ridge%20regression.ipynb"> Ridge regression </a></li>
+ <li><a href="https://github.com/kaushal93v/Data-Science-Algorithms/blob/master/Ridge%20Regression.ipynb"> Ridge Regression - Comparison of Batch Gradient Descent vs Stochastic Gradient Descent </a></li>
 </ul>
