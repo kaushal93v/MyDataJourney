@@ -31,3 +31,6 @@
 Is it because of the higher accessibility and ownership of guns or mental illness of the individuals who commit these activities or failure of the government background checks of citizens and unregulated laws related to guns?
 This is achieved by exploring and visualizing US Mass shootings data from 1966 to 2018 using Tableau, R, and D3.js.</p>
 
+### Project 4: Apache Spark Streaming Application
+<h4><a href="https://github.com/kaushal93v/Spark-Streaming-Application"> Migrating data into MongoDB database and building streaming application in Spark</a></h4>
+<p> StopFire is a campaign started by Monash University to predict and stop fires in Victorian cities. They have employed sensors in different cities of Victoria to detect fires and have collected a huge amount of data, which they couldn't handle using their traditional database. The objective of this project is to migrate their data into a NoSQL database using MongoDB and build a streaming application using Apache Kafka and Apache Spark.</p>
